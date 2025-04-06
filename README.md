@@ -42,7 +42,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/exclusiveabhi/ai-resume-builder.git
+   git clone git@github.com:Shahid6289/AI-Powered-Resume-Craft.git
    ```
 
 2. **Navigate to the Project Directory**
@@ -98,4 +98,4 @@ If you would like to contribute to **ResumeCraft**, please follow these steps:
 
 ## Contact
 
-For any questions or feedback, please open an issue on the [GitHub repository](https://github.com/exclusiveabhi/ai-resume-builder/issues).
+For any questions or feedback, please open an issue on the [GitHub repository](https://github.com/Shahid6289/AI-Powered-Resume-Craft).
